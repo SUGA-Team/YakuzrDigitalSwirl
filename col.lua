@@ -1,3 +1,5 @@
+--old.
+
 local yakuza_movement = {}
 
 local rs = game:GetService("ReplicatedStorage")
